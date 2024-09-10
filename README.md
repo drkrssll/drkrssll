@@ -2,7 +2,9 @@
 
 **`Web Developer & Cyber Security Enthusiast`**
 
-I'm a GitHub poster and an obsessed programmer. Rust frameworks are my life but TypeScript will do. 
+I'm a GitHub poster and an obsessed programmer. Rust frameworks are my life but Next.js will do... 
+
+TypeScript makes more sense.  
 
    <p align="left">
       <a href="https://github.com/drkrssll?tab=followers">
