@@ -3,7 +3,6 @@
 **`Web Developer & Cyber Security Enthusiast`**
 
 ### [My Portfolio](https://derekrussell.pro)
-Written in TypeScript using Next.js. For the source code, please refer to my first pinned project.
 
 I'm a GitHub poster and an obsessed programmer. Rust frameworks are my life but Next.js will do... 
 
