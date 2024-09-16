@@ -1,7 +1,7 @@
 # 🌊 Derek Russell
- > [My Portfolio](https://derekrussell.pro)
 
 **`Web Developer & Cyber Security Enthusiast`**
+ > [My Portfolio](https://derekrussell.pro)
 
 I'm a GitHub poster and an obsessed programmer. Rust frameworks are my life but Next.js will do... 
 
