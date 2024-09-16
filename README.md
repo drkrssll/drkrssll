@@ -1,5 +1,6 @@
 # 🌊 Derek Russell
 ## [My Portfolio](https://derekrussell.pro)
+Written in TypeScript using Next.js. For the source code, please refer to my first pinned project.
 
 **`Web Developer & Cyber Security Enthusiast`**
 
