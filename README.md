@@ -16,7 +16,7 @@ TypeScript makes more sense.
 
 ---
 
-### 🧰 Languages
+### 🧰 Languages + Frameworks
 
 <img align="left" alt="Rust" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cuddlyferris.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
