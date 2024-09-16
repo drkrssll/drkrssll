@@ -1,13 +1,11 @@
 # 🌊 Derek Russell
+ > derekrussell.pro
 
 **`Web Developer & Cyber Security Enthusiast`**
-
 
 I'm a GitHub poster and an obsessed programmer. Rust frameworks are my life but Next.js will do... 
 
 TypeScript makes more sense.  
-
-#### [My Portfolio](https://derekrussell.pro)
 
    <p align="left">
       <a href="https://github.com/drkrssll?tab=followers">
