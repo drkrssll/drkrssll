@@ -8,12 +8,12 @@
 
 ---
 
-I'm a passionate full-stack developer with in cyber security. Rust frameworks are my life, but Next.js will do... TypeScript just makes more sense.
+I'm a passionate developer with who started out in cyber security. Rust frameworks are my life, but Next.js will do... TypeScript just makes more sense.
 
 - 🚀 Currently working on **[My Link Hub](https://github.com/drkrssll/link-hub)**
-- 🌱 Always learning more about **JavaScript Frameworks and Frontend Rust Franeworks**
+- 📚 Always learning more about **JavaScript Frameworks and Frontend Rust Frameworks**
 - ❤️ In love with **Rust, TypeScript, Next.js, and anything tech-related**
-
+- 👾 Started out learning cyber security via **HackTheBox and TryHackMe**
 ---
 
 ### 🛠️ Languages and Tools
@@ -32,6 +32,6 @@ I'm a passionate full-stack developer with in cyber security. Rust frameworks ar
 ### 📈 GitHub Stats
 
 [![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkrssll&show_icons=true&theme=tokyonight)](https://github.com/drkrssll)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drkrssll&layout=compact&theme=tokyonight)](https://github.com/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drkrssll&layout=compact&theme=tokyonight)](https://github.com/drkrssll)
 
 ---
