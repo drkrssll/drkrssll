@@ -1,29 +1,37 @@
 # 🌊 Derek Russell
 
-**`Web Developer & Cyber Security Enthusiast`**
- > [My Portfolio](https://derekrussell.pro)
+**`Full-Stack Developer & Cyber Security Enthusiast`**
 
-I'm a GitHub poster and an obsessed programmer. Rust frameworks are my life but Next.js will do... 
-
-TypeScript makes more sense.  
-
-   <p align="left">
-      <a href="https://github.com/drkrssll?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/drkrssll?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/drkrssll">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/drkrssll?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://derekrussell.pro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
-### 🧰 Languages + Frameworks
+I'm a passionate full-stack developer with in cyber security. Rust frameworks are my life, but Next.js will do... TypeScript just makes more sense.
 
-<img align="left" alt="Rust" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Cuddlyferris.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/download/354113/nextjs-icon.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br />
+- 🚀 Currently working on **[My Link Hub](https://github.com/drkrssll/link-hub)**
+- 🌱 Always learning more about **JavaScript Frameworks and Frontend Rust Franeworks**
+- ❤️ In love with **Rust, TypeScript, Next.js, and anything tech-related**
+
+---
+
+### 🛠️ Languages and Tools
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkrssll&show_icons=true&theme=tokyonight)](https://github.com/drkrssll)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drkrssll&layout=compact&theme=tokyonight)](https://github.com/
+
+---
