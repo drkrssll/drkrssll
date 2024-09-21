@@ -18,7 +18,7 @@ I'm a passionate developer with who started out in cyber security. Rust framewor
 
 ### 🛠️ Languages andTools
 
-![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
+![](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
 ![Rocket.rs](https://img.shields.io/badge/Rocket.rs-%23EC4A3F.svg?style=for-the-badge&logo=rocket&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
