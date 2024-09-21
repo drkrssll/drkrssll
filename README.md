@@ -11,8 +11,8 @@
 I'm a passionate developer with who started out in cyber security. Rust frameworks are my life, but Next.js will do... TypeScript just makes more sense.
 
 - 🚀 Currently working on **[My Link Hub](https://github.com/drkrssll/link-hub)**
-- 📚 Always learning more about **JavaScript Frameworks and Frontend Rust Frameworks**
-- ❤️ In love with **Rust, TypeScript, Next.js, and anything tech-related**
+- 📚 Always learning more about **JavaScript and Rust Frameworks**
+- ❤️ In love with **Rust, TypeScript, and Next.js**
 - 👾 Started out learning cyber security via **HackTheBox and TryHackMe**
 ---
 
