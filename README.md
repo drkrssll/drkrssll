@@ -16,8 +16,9 @@ I'm a passionate developer with who started out in cyber security. Rust framewor
 - 👾 Started out learning cyber security via **HackTheBox and TryHackMe**
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages andTools
 
+![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
