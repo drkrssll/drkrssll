@@ -25,7 +25,7 @@ TypeScript makes more sense.
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)](https://www.rust-lang.org/)
 [![Rocket.rs](https://img.shields.io/badge/Rocket.rs-%23EC4A3F.svg?style=for-the-badge&logo=rocket&logoColor=white)](https://rocket.rs/)
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PyO3](https://img.shields.io/badge/PyO3-%2307405e.svg?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/PyO3/pyo3)
+[![PyO3](https://img.shields.io/badge/PyO3-%2307405e.svg?style=for-the-badge&logo=rust&logoColor=orange)](https://github.com/PyO3/pyo3)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
