@@ -14,7 +14,7 @@ TypeScript makes more sense.
 
 - 🚀 Currently working on **[Vizhu](https://github.com/drkrssll/vizhu)**
 - 📚 Always learning more about **JavaScript and Rust Frameworks**
-- ❤️ In love with **Rust, TypeScript, and Next.js**
+- ❤️ In love with **Rust, TypeScript, and PyO3**
 - 👾 Started out learning cyber security via **HackTheBox and TryHackMe**
 
 ---
