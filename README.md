@@ -12,7 +12,7 @@ I'm a passionate developer who started out in cyber security. Rust frameworks ar
 
 TypeScript makes more sense.
 
-- 🚀 Currently working on **[Vizhu](https://github.com/drkrssll/vizhu)**
+- 🚀 Currently working on **[Vizhu](https://github.com/drkrssll/vizhu)** and **[My Link Hub](https://github.com/drkrssll/link-hub)**
 - 📚 Always learning more about **JavaScript and Rust Frameworks**
 - ❤️ In love with **Rust, TypeScript, and PyO3**
 - 👾 Started out learning cyber security via **HackTheBox and TryHackMe**
