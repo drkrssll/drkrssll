@@ -8,7 +8,7 @@
 
 ---
 
-I'm a passionate developer who started out in cyber security. Rust frameworks are my life, but Next.js will do... 
+Rust frameworks are my life, but Next.js will do... 
 
 TypeScript makes more sense.
 
