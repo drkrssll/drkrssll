@@ -7,8 +7,7 @@
 [![i use arch btw](https://img.shields.io/badge/-i%20use%20arch%20btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
 
 ---
-
-Rust frameworks are my life, but Next.js will do... 
+Frontend Web Developer with a profound love for low level programming.
 
 TypeScript makes more sense.
 
