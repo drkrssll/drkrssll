@@ -34,8 +34,7 @@ TypeScript makes more sense.
 
 ### 📈 GitHub Stats
 
-[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkrssll&show_icons=true&theme=tokyonight)](https://github.com/drkrssll)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drkrssll&layout=compact&theme=tokyonight)](https://github.com/drkrssll)
+[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=drkrssll&show_icons=true&theme=tokyonight)](https://github.com/drkrssll)
 
 ---
