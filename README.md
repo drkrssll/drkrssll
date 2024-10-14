@@ -12,9 +12,6 @@ Frontend Web Developer with a profound love for low level programming.
 TypeScript makes more sense.
 
 - 🚀 Currently working on **[Chunks](https://github.com/drkrssll/chunks-rs)**
-- 📚 Always learning more about **JavaScript and Rust Frameworks**
-- ❤️ In love with **Rust, TypeScript, and PyO3**
-- 👾 Started out learning cyber security via **HackTheBox and TryHackMe**
 
 ---
 
