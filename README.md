@@ -11,7 +11,7 @@ Frontend Web Developer with a profound love for low level programming.
 
 TypeScript makes more sense.
 
-- 🚀 Currently working on **[Chunks](https://github.com/drkrssll/chunks-rs)**
+- 🚀 Currently working on **[Chunks](https://github.com/drkrssll/chunks-rs) and [Example Chunks](https://github.com/drkrssll/example-chunks)**
 
 ---
 
