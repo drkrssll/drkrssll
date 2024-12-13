@@ -1,5 +1,5 @@
 # 🌊 Derek Russell
-**`Rust Dev & Black Ops 2 Fan`**
+**`Rust Dev, TypeScript Enjoyer, Black Ops 2 Fan`**
 
 Back working on **[Chunks](https://github.com/drkrssll/chunks-rs) and [Example Chunks](https://github.com/drkrssll/example-chunks)**
 
