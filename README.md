@@ -1,5 +1,5 @@
-# 🌊 Derek Russell
-**`Rustacean 🦀, Web Developer 🌐`**
+# Derek Russell
+**`Rustacean`**
 
 Back working on **[Chunks](https://github.com/drkrssll/chunks-rs) and [Example Chunks](https://github.com/drkrssll/example-chunks)**
 
