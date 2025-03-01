@@ -1,5 +1,10 @@
-# Derek Russell
+# drkrssll
 **`Rustacean`**
+
+Говорю:
+- Английский
+- Русский
+- Испанский
 
 Working on **[Chunks](https://github.com/drkrssll/chunks-rs) and [Igor](https://github.com/drkrssll/igor)**
 
