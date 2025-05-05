@@ -2,7 +2,7 @@
 
 Working on some APIs right now, but later I will do something cool.
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" alt="rust logo" />](https://www.rust-lang.org/)
+[<img src="[http://www.rust-lang.org/logos/rust-logo-blk.svg]" width="40" alt="rust logo" />](https://www.rust-lang.org/)
 &nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" alt="python logo"/>](https://www.python.org/)
 &nbsp;
