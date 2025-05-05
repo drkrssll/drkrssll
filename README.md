@@ -2,7 +2,7 @@
 
 Working on some APIs right now, but later I will do something cool.
 
-Unfortunately, I prefer to write in Rust, but outside of that, I mainly use these langs:
+Unfortunately, I prefer to write in Rust, but outside of that, I mainly use these:
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" alt="python logo"/>](https://www.python.org/)
 &nbsp;
